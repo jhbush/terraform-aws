@@ -1,5 +1,5 @@
 region             = "us-west-2"
 availability_zones = ["us-west-2a", "us-west-2b"]
 instance_type      = "t3.micro"
-workstation_ip     = "108.231.75.200/32"
-key_name           = "terraform_uswest"
+workstation_ip     = ""
+key_name           = ""
